@@ -1,0 +1,1 @@
+https://mask-detectv2.herokuapp.com/
